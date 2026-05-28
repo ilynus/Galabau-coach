@@ -1,6 +1,0 @@
-streamlit>=1.36
-pandas>=2.0
-pillow>=10.0
-fpdf2>=2.7
-openai>=1.40
-python-dotenv>=1.0
